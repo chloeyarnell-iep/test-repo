@@ -1,5 +1,6 @@
 #01 Set Up----------------------------------------------------------------------
 #Set up your. Rprofile
+file.edit("~/.Rprofile")
 #Install the iepg package
 #Set up a new project in github and Rstudio
 #Clone a repository from github into Rstudio
